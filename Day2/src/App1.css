@@ -1,0 +1,100 @@
+body {
+    background-color: rgb(149, 168, 179);
+    font-family: sans-serif;
+    }
+    .imf{
+      width:40vw;
+      height:93vh;
+      background-color: aliceblue;
+      position: absolute;
+      left:14%;
+      top:4%;
+    }
+    h2{
+      margin-left: 50px;
+      position: relative;
+      top:3%;
+    }
+    p{
+      margin-left: 83px;
+    }
+    .fir{
+        margin-top: 50px;
+        height: 70%;
+        width:80%;
+    }
+    .dim{
+      width:50%;
+      height: 100%;
+    }
+    img{
+      position:absolute;
+      left:10%;
+      top:13%;
+      height: 70vh;
+      width:85%;
+    }
+    form{
+      width:36%;
+      height:93%;
+      background-color: aliceblue;
+      position: absolute;
+      left:51%;
+      top:4%;
+      border-radius: 0px;
+    }
+    input{
+      width:95%;
+      height: 9%;
+      font-size: 14px;
+      padding-left: 15px;
+      margin-left: 42px;
+      margin-top:14px;
+      border:0.5px solid rgb(199, 198, 198);
+    }
+    input:hover{
+      border: 1px solid rgb(104, 103, 103);
+    }
+     label{
+      position:relative;
+      font-weight:600;
+      position: relative;
+      left:15%;
+      top:3%;
+    }
+    .uname{
+      font-weight: 600;
+      margin-left: 10%;
+      position: relative;
+      top:2%;
+    }
+    button{
+      font-size: 18px;
+      font-weight: 600;
+      color:#fff;
+      width:98%;
+      height:12%;
+      background-color: rgb(45, 167, 126);
+      border-radius: 2px;
+      border:1px solid grey;
+      margin-top: 5%;
+      margin-left: 48px;
+    }
+    .forget{
+      color:rgb(56, 56, 209);
+      font-weight: 550;
+      margin-top: 8%;
+      margin-left: 40%;
+    }
+    .success {
+      color: green;
+      position: absolute;
+      right: 33%;
+      top: 65.5%;
+      padding: 25px 0 0 20px;
+      height: 12vh;
+      timeline-scope: 10s;
+    }
+    
+    
+ 
